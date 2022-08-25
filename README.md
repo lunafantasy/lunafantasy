@@ -1,4 +1,4 @@
-### Hi there 👋
+### A 19 year old freshman at IBMEC, Rio de Janeiro. Currently studying Full Stack Development.
 
 <!--
 **baikenyabujin/baikenyabujin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
