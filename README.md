@@ -1,3 +1,5 @@
-### A 19 year old freshman at IBMEC, Rio de Janeiro. Currently studying Full Stack Development.
+### Hi! I'm Rafael! Welcome to my GitHub profile!!! :D
+
+Currently attending Full Stack Development classes at IBMEC, Rio.
 
 ![:name](https://count.getloli.com/get/@:baikenyabujin)
