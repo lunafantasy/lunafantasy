@@ -2,7 +2,7 @@
 
 I'm a 19 year old Full Stack development student, currently attending classes at Ibmec, Rio.
 
-I'm also a massive fan of retro and experimental games, such as Yume Nikki, Fatum Betula, Shenmue, Ridge Racer, just to name a few. (I really like the PS1 graphics lmao), and I strive to learn Unity and Blender.
+I'm also a massive fan of retro and experimental games, such as Yume Nikki, Fatum Betula, Shenmue, Ridge Racer, just to name a few. (I really like the PS1 graphics lmao). I strive to learn Unity and Blender.
 
 Probably the biggest Yabujin and Aphex Twin fan out there, just sayin'.
 
