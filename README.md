@@ -1,6 +1,6 @@
 ### Hello, pleased to meet ya! Welcome to my GitHub profile!
 
-I'm a 21 years old from Brazil! I love listening to black metal and Deafheaven is my favorite band.
+I'm a 21 year old brazilian! I love listening to black metal and Deafheaven is my favorite band.
 
 (I'm also a huge Final Fantasy nerd.)
 
